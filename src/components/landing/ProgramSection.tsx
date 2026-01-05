@@ -9,63 +9,63 @@ const ProgramSection = () => {
   const modules = [
     {
       number: "01",
-      title: "Fundamentos de la Conciencia",
-      description: "Introducción a los principios fundamentales de la conciencia humana y su papel en la existencia personal y colectiva. Exploración del marco conceptual Osccusen."
+      title: "Referencia",
+      description: "Establece el origen de la confusión existencial contemporánea y presenta al Osccusen como modelo cerebral para comprender y reorganizar la experiencia personal, social y cultural."
     },
     {
       number: "02",
-      title: "La Disciplina Ubicua",
-      description: "Comprensión profunda de la Disciplina Ubicua como metodología integral para el desarrollo personal y organizacional. Sus principios y aplicaciones prácticas."
+      title: "Paradigma",
+      description: "Introduce el concepto de totalidad mediante el Osccusen, enseñando a transformar la visión fragmentada de la realidad en una comprensión integral.Orienta a alinear pensamiento, emoción y acción para una existencia coherente y consciente."
     },
     {
       number: "03",
-      title: "Autoconocimiento Profundo",
-      description: "Herramientas y prácticas para desarrollar un autoconocimiento genuino que trasciende la superficie y accede a las capas más profundas del ser."
+      title: "Inicio",
+      description: "Desarrolla la comprensión de la voluntad y la autoconciencia.Entrega herramientas para recuperar, reorganizar y utilizar correctamente los recursos mentales, fortaleciendo el propósito, la confianza y la coordinación de procesos y equipos.."
     },
     {
       number: "04",
-      title: "Productividad con Sentido",
-      description: "Redefinición de la productividad desde una perspectiva integral. Cómo lograr resultados sostenibles alineados con el propósito personal y organizacional."
+      title: "Naturaleza",
+      description: "Aborda la identidad y la naturaleza humana como construcciones dinámicas.Promueve el desarrollo de habilidades personales que integran lo innato con lo adquirido para una identidad consciente, adaptable y coherente.."
     },
     {
       number: "05",
-      title: "Relaciones y Sistemas",
-      description: "Comprensión de las dinámicas relacionales y sistémicas que gobiernan las interacciones humanas en contextos personales y profesionales."
+      title: "Imaginación, Intuición e Instintos",
+      description: "Explora estas dimensiones como herramientas para crear proyectos existenciales significativos.Enseña a estructurar sistemas integrales (“totalidades”) en lugar de pensamientos aislados, fortaleciendo la creatividad consciente.."
     },
     {
       number: "06",
-      title: "Liderazgo Humano",
-      description: "Desarrollo de un liderazgo basado en la comprensión profunda del ser humano. Principios para influir positivamente desde la autenticidad."
+      title: "Situación",
+      description: "Permite comprender la relación del ser humano con la realidad, sus decisiones y su contexto. Desarrolla la capacidad de analizar experiencias, generar sistemas y transformar vivencias en conocimiento útil."
     },
     {
       number: "07",
-      title: "Gestión del Cambio",
-      description: "Herramientas para navegar y facilitar procesos de cambio personal y organizacional con sabiduría y efectividad."
+      title: "Cambios",
+      description: "Facilita procesos de transformación personal profunda.Enseña a comprender y aplicar el cambio como proceso consciente, observando la unidad, la variación y la evolución existencial."
     },
     {
       number: "08",
-      title: "Comunicación Consciente",
-      description: "El arte de la comunicación que conecta, inspira y transforma. Principios para una expresión auténtica y una escucha profunda."
+      title: "Interacción",
+      description: "Desarrolla habilidades de comunicación auténtica, empatía y relación humana. Fortalece la capacidad de interactuar de forma consciente, efectiva y saludable."
     },
     {
       number: "09",
-      title: "Propósito y Dirección",
-      description: "Clarificación del propósito personal y su alineación con la acción cotidiana. Cómo vivir una vida con dirección y significado."
+      title: "Representación y Actuación",
+      description: "Enseña a actuar con conciencia del impacto personal y social. Integra el concepto de representación, el tecnoself y la audiencia como parte activa del proceso de acción."
     },
     {
       number: "10",
-      title: "Organizaciones Conscientes",
-      description: "Principios para desarrollar y liderar organizaciones que integran el desarrollo humano con los objetivos institucionales."
+      title: "Productividad",
+      description: "Redefine la productividad desde una visión ética e integral. Permite reconocer, recuperar y reutilizar potencialidades invisibilizadas, promoviendo colaboración, crecimiento y desarrollo sostenible."
     },
     {
       number: "11",
-      title: "Integración y Práctica",
-      description: "Síntesis de los aprendizajes y desarrollo de un plan personal de aplicación. Herramientas para la práctica continua."
+      title: "Gestión",
+      description: "Introduce la visión sistémica de procesos. Optimiza el uso del tiempo, la organización de recursos y la capacidad de gestión consciente, logrando eficiencia con sentido humano."
     },
     {
       number: "12",
-      title: "El Camino Adelante",
-      description: "Visión de largo plazo para el desarrollo continuo. Cómo mantener y profundizar la transformación iniciada en el programa."
+      title: "Retroalimentación",
+      description: "Instala la retroalimentación como motor de mejora continua. Promueve el cuestionamiento crítico, la revisión permanente y la evolución del conocimiento y la práctica."
     }
   ];
 
