@@ -43,22 +43,16 @@ const AboutSection = () => {
           <div className="grid lg:grid-cols-2 gap-12 lg:gap-20 items-center mb-20">
             <div className="space-y-6">
               <p className="text-lg text-foreground/80 font-body leading-relaxed">
-                <span className="font-semibold text-foreground">Etalin</span> es un programa 
-                de formación integral que surge de más de tres décadas de investigación 
-                profunda sobre la naturaleza de la conciencia humana, la productividad y 
-                el sentido de la existencia.
+                <span className="font-semibold text-foreground">ETALIN</span> es una sigla que 
+                representa a todas y todos, y a la totalidad de las infinitas personas, 
+                realidades y elementos que han sido invisibilizados, ignorados o normalizados 
+                dentro de la sociedad contemporánea.
               </p>
               <p className="text-lg text-foreground/80 font-body leading-relaxed">
-                Basado en el modelo <span className="font-semibold text-accent">Osccusen</span> y 
-                la <span className="font-semibold text-accent">Disciplina Ubicua</span>, 
-                este programa ofrece un marco conceptual único para comprender la 
-                interconexión entre el desarrollo personal, el liderazgo organizacional 
-                y la evolución de la conciencia.
-              </p>
-              <p className="text-lg text-foreground/80 font-body leading-relaxed">
-                Más allá de las técnicas superficiales, Etalin proporciona una comprensión 
-                profunda de los principios que gobiernan la existencia humana y su 
-                manifestación en contextos personales y organizacionales.
+                El término surge como respuesta a la profunda confusión existente sobre la 
+                realidad de la existencia personal, temporal, social, cultural y tecnológica 
+                del ser humano actual, estableciendo un marco conceptual orientado a la 
+                conciencia, la actualización y la reorganización de la experiencia humana.
               </p>
             </div>
 
