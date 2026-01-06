@@ -64,6 +64,34 @@ const FounderSection = () => {
                 </p>
               </div>
 
+              {/* Fundamento del Pensamiento */}
+              <div className="space-y-4">
+                <h3 className="font-heading text-2xl md:text-3xl text-foreground mb-2">
+                  Fundamento del Pensamiento
+                </h3>
+                <div className="space-y-4 text-foreground/80 font-body leading-relaxed">
+                  <p>
+                    Milton Enrique Ramírez Pavez sostiene que la solución al problema de la 
+                    existencia humana se encuentra en la comprensión del todo natural y verdadero 
+                    que cada persona posee a su entera disposición, siempre inseparable de los otros, 
+                    del entorno y del contexto.
+                  </p>
+                  <p>
+                    Desde esta visión, la transformación no depende de la acción fragmentada ni de 
+                    la automatización técnica, sino del Osccusen, entendido como un sistema basado 
+                    en la finitud: el tiempo, la energía y el movimiento concebidos como un "hacerse".
+                    Este enfoque propone un tránsito desde la acción objetivadora hacia una acción 
+                    serena y consciente, caracterizada por la valentía, el temple, el valor y la entereza.
+                  </p>
+                  <p>
+                    Frente a las crisis contemporáneas, su planteamiento afirma la necesidad ineludible 
+                    de pasar de una visión fragmentada de la realidad a la comprensión de la totalidad, 
+                    es decir, a la capacidad de gobernar conscientemente la energía, el tiempo y el 
+                    movimiento de la existencia.
+                  </p>
+                </div>
+              </div>
+
               {/* Credentials */}
               <div className="pt-4 border-t border-border">
                 <div className="flex flex-wrap gap-6">
