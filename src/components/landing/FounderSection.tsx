@@ -45,7 +45,7 @@ const FounderSection = () => {
                 </p>
               </div>
 
-              <div className="space-y-4 text-foreground/80 font-body leading-relaxed">
+              <div className="space-y-4 text-foreground/80 font-body leading-relaxed text-justify">
                 <p>
                   Con más de tres décadas dedicadas a la investigación profunda sobre 
                   la conciencia humana, la productividad y el sentido de la existencia, 
@@ -69,7 +69,7 @@ const FounderSection = () => {
                 <h3 className="font-heading text-2xl md:text-3xl text-foreground mb-2">
                   Fundamento del Pensamiento
                 </h3>
-                <div className="space-y-4 text-foreground/80 font-body leading-relaxed">
+                <div className="space-y-4 text-foreground/80 font-body leading-relaxed text-justify">
                   <p>
                     Milton Enrique Ramírez Pavez sostiene que la solución al problema de la 
                     existencia humana se encuentra en la comprensión del todo natural y verdadero 
